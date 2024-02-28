@@ -2,7 +2,7 @@
 
 - Clone repositorie
 ``` 
-git clone https://github.com/Zlkcyber/selfchaind.git
+git clone https://github.com/huukhoa1412/selfchaind.git
 ```
 - Make it executable
 ```
